@@ -397,3 +397,8 @@ model Comment {
 - [ ] Настраиваемые дашборды
 - [ ] Шаблоны целей и привычек
 - [ ] Версионирование заметок
+
+# Старые версии проекта
+- https://github.com/suenot/motiveyou_1
+- https://github.com/suenot/motiveyou_2
+- https://github.com/suenot/motiveyou-django
